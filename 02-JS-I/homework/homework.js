@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = Leo;
+const nuevaString = "Leo";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 09;
@@ -28,6 +28,7 @@ const nuevoModulo = 21 % 5 === 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
+  return str;
 }
 
 function suma(x, y) {
